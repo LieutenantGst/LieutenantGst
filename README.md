@@ -1,22 +1,17 @@
+<!--- mtbr29/mtbr29 is a ✨ special ✨ repo because its README.md (this file) appears on your GitHub profile. --->
 
+<img align="right" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="70"/>
 
-<!---
-mtbr29/mtbr29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm LieutenantGst 👋
 
-## ***Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm LieutenantGst***
+I know how to make **Discord Bots** and I like fortnite **OGFN projects**
 
+That's pretty much it. Oh Yeah I'm Still Learning Javascript
 
-[![](https://awesome-github-stats.azurewebsites.net/user-stats/LieutenantGst?cardType=github&theme=dark&preferLogin=false&Text=1DDD13&Title=21DD00)](https://git.io/awesome-stats-card)
----
-
-### Languages and Tools:
-
+### Stuff I use
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=discord,bots,github," />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,git,github,vscode&theme=dark" />
 </p>
 
----------------
+### Stats (if you're into that)
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LieutenantGst?cardType=github&theme=dark&preferLogin=false)
