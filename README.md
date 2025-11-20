@@ -13,4 +13,4 @@ That's pretty much it. Oh Yeah I'm Still Learning Javascript
   <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,git,github,vscode&theme=dark" />
 </p>
 
-[![Will's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LieutenantGst&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5555&text_color=ff5555)](https://github.com/anuraghazra/github-readme-stats)
+![LieutenantGst's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LieutenantGst&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff0000&text_color=ff5555&icon_color=ff0000&ring=ff0000&currStreakNum=ff5555&fire=ff0000&sideLabels=ff5555)
