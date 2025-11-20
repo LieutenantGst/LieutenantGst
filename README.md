@@ -13,5 +13,4 @@ That's pretty much it. Oh Yeah I'm Still Learning Javascript
   <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,git,github,vscode&theme=dark" />
 </p>
 
-### Stats (if you're into that)
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LieutenantGst?cardType=github&theme=dark&preferLogin=false)
+[![GitHub Stats](https://github-readme-stats.j41131.vercel.app/api?username=LieutenantGst&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=ff5555&text_color=ffffff&icon_color=ff5555&bg_color=1a1a2e)](https://github.com/anuraghazra/github-readme-stats)
