@@ -10,7 +10,7 @@ That's pretty much it. Oh Yeah I'm Still Learning Javascript
 
 ### Stuff I use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,github,vscode&theme=dark" />
 </p>
 
 ![LieutenantGst's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LieutenantGst?cardType=github&theme=dark&preferLogin=false)
